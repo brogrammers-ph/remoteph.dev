@@ -30,3 +30,13 @@ Change "foo" to "bar"
 ## Pull Request
 - Do not commit and push directly to `master` branch.
 - All changes must go through the PR process.
+
+## Deploy
+
+```
+yarn deploy
+```
+
+```
+npm run deploy
+```
